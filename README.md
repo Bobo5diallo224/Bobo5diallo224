@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mamadou-bobo-diallo-087441338)
 [![Website](https://img.shields.io/badge/Website-BIAcode-orange?style=flat&logo=google-chrome)](https://biacode.tech)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ton.email@exemple.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ton.mamadou.bobo624054873@gmail.com)
 
 ---
 
@@ -128,7 +128,7 @@ Je suis ouvert aux opportunités de :
 
 🌐 **Website:** [biacode.tech](https://biacode.tech)  
 💼 **LinkedIn:** [Mamadou Bobo Diallo](https://www.linkedin.com/in/mamadou-bobo-diallo-087441338)  
-📧 **Email:** ton.email@exemple.com  
+📧 **Email:** mamadou.bobo624054873@gmail.com 
 📍 **Localisation:** Rufisque, Dakar, Sénégal
 
 ---
