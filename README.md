@@ -82,7 +82,7 @@ Grow BIAcode into a recognized tech agency in West Africa
 ## 🤝 Let's Connect
 
 🌐 https://biacode.tech  
-💼 LinkedIn: (ajoute ton lien)  
+💼 LinkedIn: https://www.linkedin.com/in/mamadou-bobo-diallo-087441338  
 📧 Email: (ajoute ton email)
 
 ---
